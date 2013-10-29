@@ -646,19 +646,19 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">So it’s a date?
 
 1
-00:10:31,752 --> -------sampe sini------- 00:10:34,178 
+00:10:31,752 --> 00:10:34,178 
 <font face="Arial" color="white" size="18">So, it is.
 
 1
-00:10:34,178 --> 00:10:35,200
+00:10:34,178 --> 00:10:35,000
 <font face="Arial" color="white" size="18">Cool.
 
 1
-00:10:35,200 --> 00:10:36,510
-<font face="Arial" color="white" size="18">( bell rings )
+00:10:35,000 --> 00:10:36,510
+<font face="Arial" color="white" size="18">(bell rings)
 
 1
-00:10:36,510 --> 00:10:40,492
+00:10:36,510 --> 00:10:38,000
 <font face="Arial" color="white" size="18">See ya.
 
 1
@@ -670,10 +670,6 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Evil! Evil!
 
 1
-00:10:47,338 --> 00:10:52,785
-<font face="Arial" color="white" size="18">…………………………………
-
-1
 00:10:52,785 --> 00:10:56,108
 <font face="Arial" color="white" size="18">Drake, Josh, your dinner’s on the table.
 
@@ -682,12 +678,8 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Okay.
 
 1
-00:10:56,821 --> 00:10:58,168
+00:10:56,821 --> 00:10:57,868
 <font face="Arial" color="white" size="18">Thanks.
-
-1
-00:10:58,168 --> 00:11:18,187
-<font face="Arial" color="white" size="18">………………………
 
 1
 00:11:18,187 --> 00:11:19,966
@@ -702,7 +694,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">To help people with their problems, and/or issues.
 
 1
-00:11:28,223 --> 00:11:37,292
+00:11:28,223 --> 00:11:36,792
 <font face="Arial" color="white" size="18">So, if buy Tiffany some flowers, write he a couple poems and cook her a nice, romantic dinner, that will solve her problem, won’t it?
 
 1
@@ -722,7 +714,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">I know who Miss Nancy is! I know who Miss Nancy is!
 
 1
-00:11:50,599 --> 00:11:56,451
+00:11:50,599 --> 00:11:54,751
 <font face="Arial" color="white" size="18">Okay, all right! I’ll cook the dinner. Aw, you hand licker.
 
 1
@@ -730,27 +722,19 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Come on, let’s eat.
 
 1
-00:11:57,883 --> 00:12:08,043
-<font face="Arial" color="white" size="18">--------
-
-1
 00:12:08,043 --> 00:12:09,563
 <font face="Arial" color="white" size="18">(both screaming)
-
-1
-00:12:09,563 --> 00:12:18,014
-<font face="Arial" color="white" size="18">------
 
 1
 00:12:18,014 --> 00:12:21,207
 <font face="Arial" color="white" size="18">(both screaming)
 
 1
-00:12:21,207 --> 00:12:36,319
+00:12:23,207 --> 00:12:25,319
 <font face="Arial" color="white" size="18">That’s mine, that’s mine!
 
 1
-00:12:36,319 --> 00:12:41,748
+00:12:36,319 --> 00:12:37,248
 <font face="Arial" color="white" size="18">(glass breaks)
 
 1
@@ -762,24 +746,20 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">What hose?!
 
 1
-00:12:43,422 --> 00:12:43,689
+00:12:43,422 --> 00:12:44,089
 <font face="Arial" color="white" size="18">The hose!
 
 1
-00:12:43,689 --> 00:12:45,276
+00:12:44,089 --> 00:12:45,276
 <font face="Arial" color="white" size="18">What hose?!
 
 1
-00:12:45,276 --> 00:12:50,701
+00:12:45,276 --> 00:12:46,201
 <font face="Arial" color="white" size="18">The window!
 
 1
 00:12:50,701 --> 00:12:52,365
 <font face="Arial" color="white" size="18">Ow, ow.
-
-1
-00:12:52,365 --> 00:13:17,605
-<font face="Arial" color="white" size="18">………………………………………
 
 1
 00:13:17,605 --> 00:13:21,303
@@ -794,7 +774,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">I never heard of it.
 
 1
-00:13:30,761 --> 00:13:34,290
+00:13:30,761 --> 00:13:32,290
 <font face="Arial" color="white" size="18">Neither have I.
 
 1
@@ -834,7 +814,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">I have to use the little boy’s room.
 
 1
-00:13:56,506 --> 00:13:59,711
+00:13:56,506 --> 00:13:58,711
 <font face="Arial" color="white" size="18">There’s a sink in the kitchen.
 
 1
@@ -842,11 +822,11 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Josh, did you try some of this ravioli that Drake made? It’s incredible.
 
 1
-00:14:03,968 --> 00:14:15,708
+00:14:03,968 --> 00:14:13,108
 <font face="Arial" color="white" size="18">Oh, is it? Now tell me, Drake, how do you make it?
 
 1
-00:14:15,708 --> 00:14:20,655
+00:14:15,708 --> 00:14:18,655
 <font face="Arial" color="white" size="18">You know, it’s really time for dessert. Tiffany, I’ll take your plate.
 
 1
@@ -858,8 +838,12 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Yeah, he’s something.
 
 1
-00:14:25,576 --> 00:14:33,292
-<font face="Arial" color="white" size="18">I mean, he’s so sensitive, you know? The flowers, the poetry, this awesome dinner. I mean my boyfriend never does any f this stuff.
+00:14:25,576 --> 00:14:31,002
+<font face="Arial" color="white" size="18">I mean, he’s so sensitive, you know? The flowers, the poetry, this awesome dinner. 
+
+1
+00:14:31,002 --> 00:14:33,292
+I mean my boyfriend never does any f this stuff.
 
 1
 00:14:33,292 --> 00:14:37,860
@@ -882,11 +866,11 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">(banging on door)
 
 1
-00:14:43,217 --> 00:14:48,739
+00:14:43,217 --> 00:14:44,999
 <font face="Arial" color="white" size="18">All right, all right, I’m coming.
 
 1
-00:14:48,739 --> 00:14:51,033
+00:14:48,739 --> 00:14:50,033
 <font face="Arial" color="white" size="18">Buck!
 
 1
@@ -894,7 +878,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">So, it’s true.
 
 1
-00:14:53,701 --> 00:14:57,132
+00:14:53,701 --> 00:14:56,132
 <font face="Arial" color="white" size="18">What? That I have a concussion?
 
 1
@@ -926,7 +910,7 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">But I’m a vegetarian.
 
 1
-00:15:19,738 --> 00:15:30,572
+00:15:19,738 --> 00:15:26,172
 <font face="Arial" color="white" size="18">Monday, 3:00, you and me. Have an ambulance ready.
 
 1
@@ -934,19 +918,15 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">That was so romantic.
 
 1
-00:15:34,142 --> 00:15:39,422
+00:15:34,142 --> 00:15:38,422
 <font face="Arial" color="white" size="18">And dessert is here. Josh, u thought you had to pee.
 
 1
-00:15:39,422 --> 00:15:41,452
+00:15:39,422 --> 00:15:41,052
 <font face="Arial" color="white" size="18">Done.
 
 1
-00:15:41,452 --> 00:15:53,974
-<font face="Arial" color="white" size="18">………………………………
-
-1
-00:15:53,974 --> 00:15:57,159
+00:15:54,574 --> 00:15:57,159
 <font face="Arial" color="white" size="18">How could you get me into a fight with Buck?
 
 1
@@ -954,16 +934,24 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Oh, this is my fault?
 
 1
-00:15:58,624 --> 00:16:05,519
-<font face="Arial" color="white" size="18">Oh, let me think. Yes. You realize he’s going to destroy me.
+00:15:58,624 --> 00:16:01,719
+<font face="Arial" color="white" size="18">Oh, let me think. Yes. 
+
+1
+00:16:02,624 --> 00:16:05,519
+You realize he’s going to destroy me.
 
 1
 00:16:05,519 --> 00:16:07,503
 <font face="Arial" color="white" size="18">He’s not going to destroy you.
 
 1
-00:16:07,503 --> 00:16:15,271
-<font face="Arial" color="white" size="18">He’s huge, and stupid. That’s a bad combination.
+00:16:07,503 --> 00:16:10,800
+<font face="Arial" color="white" size="18">He’s huge, and stupid. 
+
+1
+00:16:12,003 --> 00:16:15,271
+That’s a bad combination.
 
 1
 00:16:15,271 --> 00:16:21,570
@@ -978,10 +966,6 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">I got it.
 
 1
-00:16:32,323 --> 00:16:33,591
-<font face="Arial" color="white" size="18">…………………………………
-
-1
 00:16:33,591 --> 00:16:41,336
 <font face="Arial" color="white" size="18">(karate yells) 
 
@@ -994,8 +978,12 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Uh, hey, dude.
 
 1
-00:16:45,373 --> 00:16:54,120
-<font face="Arial" color="white" size="18">(yells) Take a break. How can I help you?
+00:16:45,373 --> 00:16:49,373
+<font face="Arial" color="white" size="18">(yells)
+
+1
+00:16:49,373 --> 00:16:54,120
+Take a break. How can I help you?
 
 1
 00:16:54,120 --> 00:16:57,436
@@ -1010,11 +998,19 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">yeah, but can’t you just give him the one day crash course?
 
 1
-00:17:09,452 --> 00:17:33,400
-<font face="Arial" color="white" size="18">No. Karate is in here. Not in here. Sometimes in here. One time in here. But that was after I swallowed a box of thumbtacks. What? Do I have soothing in my teeth?
+00:17:09,452 --> 00:17:14,600
+<font face="Arial" color="white" size="18">No. Karate is in here. Not in here. 
 
 1
-00:17:33,400 --> 00:17:38,892
+00:17:16,000 --> 00:17:24,800
+Sometimes in here. One time in here. But that was after I swallowed a box of thumbtacks. 
+
+1
+00:17:28,600 --> 00:17:32,400
+What? Do I have something in my teeth?
+
+1
+00:17:33,900 --> 00:17:38,892
 <font face="Arial" color="white" size="18">No. Look, I’ve got 48 hours. You going to teach me karate or not?
 
 1
@@ -1034,9 +1030,8 @@ Hey… she’s not happy with her boyfriend.
 <font face="Arial" color="white" size="18">Ahhh.
 
 1
-00:17:51,116 --> 00:19:21,525
-<font face="Arial" color="white" size="18">………………………………
-?I’ve been knocked down before?Ooh?wrestling on the floor?Now I’m coming back for more?Ooh?They’re knocking on the door?This time, I’m going to get up. I’m going to stick it out. This time I’m going to get up for it. I’m gonna run, gonna run, gonna run it out.?You know I’ve been knocked down before?Ooh?wrestling on the floor?And I’m coming back for more?Ooh?Yeah, I’m knocking on the door?This time, I’m going to get up for it.
+00:18:12,416 --> 00:19:21,525
+<font face="Arial" color="white" size="18">?I’ve been knocked down before?Ooh?wrestling on the floor?Now I’m coming back for more?Ooh?They’re knocking on the door?This time, I’m going to get up. I’m going to stick it out. This time I’m going to get up for it. I’m gonna run, gonna run, gonna run it out.?You know I’ve been knocked down before?Ooh?wrestling on the floor?And I’m coming back for more?Ooh?Yeah, I’m knocking on the door?This time, I’m going to get up for it.
 I’m going to stick it out. This time, I’m going to get up for it…?
 
 1
@@ -1068,16 +1063,8 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">So, you boys like chicken tenders?
 
 1
-00:19:42,281 --> 00:19:49,251
-<font face="Arial" color="white" size="18">………………………………
-
-1
-00:19:49,251 --> 00:19:52,317
+00:19:49,251 --> 00:19:52,017
 <font face="Arial" color="white" size="18">(bell rings)
-
-1
-00:19:52,317 --> 00:19:56,218
-<font face="Arial" color="white" size="18">------
 
 1
 00:19:56,218 --> 00:19:56,884
@@ -1112,7 +1099,7 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">You bet.
 
 1
-00:20:17,759 --> 00:20:22,333
+00:20:17,759 --> 00:20:19,900
 <font face="Arial" color="white" size="18">Good. Here comes Buck.
 
 1
@@ -1125,14 +1112,14 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 
 1
 00:20:27,628 --> 00:20:31,417
-<font face="Arial" color="white" size="18">(crowd hooting )
+<font face="Arial" color="white" size="18">(crowd hooting)
 
 1
 00:20:31,417 --> 00:20:33,096
 <font face="Arial" color="white" size="18">Talk’s cheap. (or Quadlers)
 
 1
-00:20:33,096 --> 00:20:36,636
+00:20:33,096 --> 00:20:35,636
 <font face="Arial" color="white" size="18">40 Quatloos on the newcomer.
 
 1
@@ -1141,10 +1128,10 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 
 1
 00:20:37,707 --> 00:20:46,113
-<font face="Arial" color="white" size="18">Right. I jab, o punch and stay away from him until he gets tired. And then he’s my little girl. ( karate yell)
+<font face="Arial" color="white" size="18">Right. I jab, o punch and stay away from him until he gets tired. And then he’s my little girl. (karate yell)
 
 1
-00:20:46,113 --> 00:20:48,887
+00:20:46,113 --> 00:20:46,887
 <font face="Arial" color="white" size="18">Do it.
 
 1
@@ -1152,12 +1139,8 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">You ready?
 
 1
-00:20:49,750 --> 00:20:52,776
+00:20:49,750 --> 00:20:52,176
 <font face="Arial" color="white" size="18">Oh, yeah, baby. Come on, let’s do this. Let’s go…
-
-1
-00:20:52,776 --> 00:20:59,517
-<font face="Arial" color="white" size="18">-----
 
 1
 00:20:59,517 --> 00:21:02,698
@@ -1168,10 +1151,6 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">Oh, Buck.
 
 1
-00:21:04,649 --> 00:21:18,997
-<font face="Arial" color="white" size="18">………………………………………
-
-1
 00:21:18,997 --> 00:21:20,778
 <font face="Arial" color="white" size="18">Where is it?! Where’d you put it?!
 
@@ -1180,7 +1159,7 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">I thought you weren’t ever talking to me again.
 
 1
-00:21:22,736 --> 00:21:28,513
+00:21:22,736 --> 00:21:27,013
 <font face="Arial" color="white" size="18">I have to write my Miss Nancy column. Now where is my dress?
 
 1
@@ -1192,11 +1171,11 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">That’s it. You are the worst stepbrother ever.
 
 1
-00:21:34,896 --> 00:21:38,938
+00:21:34,896 --> 00:21:37,338
 <font face="Arial" color="white" size="18">Ooh. Harsh. I’m going to go make myself a sandwich.
 
 1
-00:21:38,938 --> 00:21:46,454
+00:21:38,938 --> 00:21:45,454
 <font face="Arial" color="white" size="18">You give me my dress. Or I will unleash $30 worth of karate on you.
 
 1
@@ -1292,12 +1271,12 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">I’m sorry, what’s you say?
 
 1
-00:22:25,346 --> 00:22:28,530
+00:22:25,346 --> 00:22:27,030
 <font face="Arial" color="white" size="18">I said it’s good advice.
 
 1
-00:22:28,530 --> 00:22:39,858
-<font face="Arial" color="white" size="18">Well, guess what, Josh? Look like you just gave some good advice. And I don’t see you wearing ant dress.
+00:22:28,530 --> 00:22:34,908
+<font face="Arial" color="white" size="18">Well, guess what, Josh? Look like you just gave some good advice. And I don’t see you wearing any dress.
 
 1
 00:22:39,858 --> 00:22:44,824
@@ -1316,19 +1295,27 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">Praise be the pants.
 
 1
-00:22:54,640 --> 00:23:04,493
-<font face="Arial" color="white" size="18">I never have to dress like a freakish man-lady again. Ah, Drake! Sorry! I forgot you’re not comfortable with the hugging.
+00:22:54,640 --> 00:22:58,493
+<font face="Arial" color="white" size="18">I never have to dress like a freakish man-lady again. 
+
+1
+00:22:59:640 --> 00:23:04,493
+Ah, Drake! Sorry! I forgot you’re not comfortable with the hugging.
 
 1
 00:23:04,493 --> 00:23:15,022
 <font face="Arial" color="white" size="18">Thanks. Look, man, I… I’m sorry I got you into this whole thing with Buck and the black eye and…
 
 1
-00:23:15,022 --> 00:23:33,919
-<font face="Arial" color="white" size="18">It’s okay. I know you didn’t mean to. And listen, um… Sorry that I said you were a bad stepbrother. I didn’t mean that. We sill friends?
+00:23:15,022 --> 00:23:19,819
+<font face="Arial" color="white" size="18">It’s okay. I know you didn’t mean to.
 
 1
-00:23:33,919 --> 00:23:43,912
+00:23:20,922 --> 00:23:33,919
+And listen, um… Sorry that I said you were a bad stepbrother. I didn’t mean that. We sill friends?
+
+1
+00:23:33,919 --> 00:23:40,912
 <font face="Arial" color="white" size="18">Friends? No way, man. We’re brothers.
 
 1
@@ -1340,10 +1327,6 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">Hug me, brother.
 
 1
-00:23:49,816 --> 00:23:55,391
-<font face="Arial" color="white" size="18">……………………………
-
-1
 00:23:55,391 --> 00:23:57,544
 <font face="Arial" color="white" size="18">I can’t believe you went on a date with a wimp like that.
 
@@ -1352,11 +1335,11 @@ I’m going to stick it out. This time, I’m going to get up for it…?
 <font face="Arial" color="white" size="18">Oh, I wasn’t on a date with him. I was on a date with him.
 
 1
-00:24:02,002 --> 00:24:07,465
+00:24:02,002 --> 00:24:06,465
 <font face="Arial" color="white" size="18">Oh, Buck. Buck, Buck, it was nothing. It was…it was…
 
 1
-00:24:07,465 --> 00:24:15,153
+00:24:07,965 --> 00:24:09,553
 <font face="Arial" color="white" size="18">(bell rings)
 
 1
